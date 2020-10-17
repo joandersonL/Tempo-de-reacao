@@ -3,12 +3,12 @@ Jogo feito em c++ e utilizando a biblioteca SFML(Biblioteca multimídia simples 
 # Regras
 Na tela vai aparecer circulos coloridos:
 
-| Cor      | Seta     | Numero |
-|----------|----------|--------|
-| Verde    | Cima     | 0      |
-| Vermelho | Baixo    | 1      |
-| Amarelo  | Esquerda | 2      |
-| Azul     | Direita  | 3      |
+|    Cor   |   Seta   | Numero |
+|:--------:|:--------:|:------:|
+|   Verde  |   Cima   |    0   |
+| Vermelho |   Baixo  |    1   |
+|  Amarelo | Esquerda |    2   |
+|   Azul   |  Direita |    3   |
   
 Ira aparece um circulo por vez na tela e o jogador vai ter que  aperta a
 seta correspondente a cor no teclado.
