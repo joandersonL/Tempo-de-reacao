@@ -21,3 +21,19 @@ Depois de 10 acertos vamos  ter uma media do tempo dos 10 acertos.
 
 Na tela mostrarar o tempo de reação da ultima Tentativa.
 
+# Contagem de Tempo
+
+A contagem do tempo inicializa assim que os objetos aparece na tela.
+
+A contagem do tempo para assim que o jogador pressionar uma  das setas.
+
+O tempo apenas ira ser contabilizado quando o jogador acertar.
+
+Uma messagem de erro vai aparecer se o usuario erra .
+
+O tempo sera descartado no caso do jogador errar.
+
+Assim que o usuario acerta/erra temoms um itervalode de um segundo
+antes de aparecer um novo cenario. 
+
+
